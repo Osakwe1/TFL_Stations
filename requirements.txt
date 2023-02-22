@@ -1,0 +1,10 @@
+# All packages required for the project to run shown below
+numpy
+pandas
+matplotlib
+geopandas
+seaborn
+plotly
+folium
+shapely
+hvplot
