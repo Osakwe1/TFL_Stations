@@ -1,4 +1,4 @@
-# Transport for London Data Visualization
+# Transport for London Data Visualization 🚇
 This repository contains an analysis of the Transport for London (TfL) station entry and exit data from 2007 to 2021. The goal of this project is to explore and visualize the data to gain insights into how people use the London Underground and other supporting TfL services.
 
 The data used in this analysis was obtained from the TfL Open Data portal and data buckets, which provides access to a wide range of data about London's transportation system. The station entry and exit data is published on an annual basis and contains information about the number of entries and exits at each station, broken down by time of day and day of the week.
@@ -16,27 +16,8 @@ The raw data from the TfL Open Data portal was in a format that required some cl
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
-You will need to have Python 3 and the following libraries installed:
-
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly 
-
-You can install these libraries using pip:
-
-```
-pip install pandas numpy geopandas matplotlib seaborn plotly folium shapely hvplot
-```
-
-## Data
-The data used in this project is provided by TfL and can be found here. You will need to download the appropriate CSV files and place them in the data directory.
-
-## Running the code
-The code for the data visualization is in the Jupyter Notebook file *'TFL_Stations.ipynb'*. You can run the code by opening the notebook and running the cells.
-
-## Built With
+### Built With
+In working on this project, the following libraries were utilized.
 - Python - Programming language
 - Pandas - Data manipulation library
 - Numpy - Scientific maths library
@@ -47,6 +28,19 @@ The code for the data visualization is in the Jupyter Notebook file *'TFL_Statio
 - Folium - Interactive map plotting library
 - Shapely - Geographical data manipulation library
 - hvplot - Data visualization library
+
+## Prerequisites
+You will need to have Python 3 and the necessary libraries installed. You can install these libraries by running:
+
+```
+pip install -r requirements.txt 
+```
+
+## Data
+The data used in this project is provided by TfL and can be found here. You will need to download the appropriate CSV files and place them in the data directory.
+
+## Running the code
+The code for the data visualization is in the Jupyter Notebook file *'TFL_Stations.ipynb'*. You can run the code by opening the notebook and running the cells.
 
 ## Results
 The results of our analysis show some interesting trends and patterns in the TfL station entry and exit data from 2007 to 2021. Some of the key findings include:
@@ -62,6 +56,8 @@ In conclusion, this project has demonstrated the power of data analysis and visu
 ### Acknowledgement
 All TfL transport data used in this project is provided by the [Transport for London open access](https://tfl.gov.uk/info-for/open-data-users/our-open-data). 
 Statistical GIS Boundary Files used in this project are provided by the [Office of National Statistics](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london). All files and data has been used in accordance with the  Open Government Licence and UK Government Licensing Framework.
+
+
 
 <!--- TfL Station Entry and Exit Data Analysis
 This repository contains an analysis of the Transport for London (TfL) station entry and exit data from 2007 to 2021. The goal of this project is to explore and visualize the data to gain insights into how people use the London Underground and other TfL services.
