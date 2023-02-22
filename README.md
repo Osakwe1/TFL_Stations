@@ -30,7 +30,7 @@ In working on this project, the following libraries were utilized.
 - hvplot - Data visualization library
 
 ## Prerequisites
-You will need to have Python 3 and the necessary libraries installed. You can install these libraries by running:
+You will need to have Python 3 and the necessary libraries installed. You can install these libraries using pip by running the below :
 
 ```
 pip install -r requirements.txt 
