@@ -80,31 +80,25 @@ All TfL transport data used in this project is provided by the [Transport for Lo
 Statistical GIS Boundary Files used in this project are provided by the [Office of National Statistics](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london). All files and data has been used in accordance with the  Open Government Licence and UK Government Licensing Framework.
 
 ## Results & Charts
-In the course of this project, several charts and indexes were produced to conduct analyses. Here I will provide a few examples of these:
+In the course of this project, several charts and indexes were produced to conduct analyses. Here I will provide a few samples of what you can find in this project:
 
-Here is a map of all the tube, rail and tram stations on the Transport for London Network. 
+- Here is a map of all the tube, rail and tram stations on the Transport for London Network. 
 ![gdf](https://user-images.githubusercontent.com/42135459/221436171-0b66359d-b70b-423f-8e7d-1ed50ebad781.png)
 
-Presented below is the Transport for London Entry & Exit figures over the years¹. 
+- Presented below is the Transport for London Entry & Exit figures over the years¹. 
 ![bokeh_plot](https://user-images.githubusercontent.com/42135459/221436610-26acb247-37ac-46fb-ba1b-49848bfcbf7c.png)
 
-¹ - Figures prior to 2017 **only** include the London Underground
+- Presented below is the Top 5 TfL stations by official Entry & Exit figures¹.
+![newplot (5)](https://user-images.githubusercontent.com/42135459/221932470-0bab7270-06a2-4379-be09-67c3776332a8.png)
+
+¹ - *Figures prior to 2017 **only** include the London Underground*
+
+- Finally, here is the breakdown of Entry & Exit data on the TfL network since 2017.
+![image](https://user-images.githubusercontent.com/42135459/222136679-28554ace-7bc4-4dc0-bf8f-c568365250ca.png)
 
 
 <!--- TfL Station Entry and Exit Data Analysis
 This repository contains an analysis of the Transport for London (TfL) station entry and exit data from 2007 to 2021. The goal of this project is to explore and visualize the data to gain insights into how people use the London Underground and other TfL services.
-
-Data Source
-The data used in this analysis was obtained from the TfL Open Data portal, which provides access to a wide range of data about London's transportation system. The station entry and exit data is published on a monthly basis and contains information about the number of entries and exits at each station, broken down by time of day and day of the week.
-
-Project Structure
-The project is structured as follows:
-
-Data Cleaning
-The raw data from the TfL Open Data portal was in a format that required some cleaning and preprocessing before it could be analyzed. This involved converting date and time fields to a more usable format, filling in missing values, and aggregating the data to a daily and monthly level. The data cleaning and preprocessing steps are detailed in the Jupyter notebooks in the notebooks directory.
-
-Data Exploration
-Once the data was cleaned and preprocessed, we performed some exploratory data analysis to understand the patterns and trends in the data. We created various visualizations using Python libraries such as Pandas, Matplotlib, and Seaborn to help us understand how station entry and exit patterns changed over time, how different stations compared to each other, and how the data varied by time of day and day of the week. The data exploration and visualization steps are also detailed in the Jupyter notebooks in the notebooks directory.
 
 Results
 The results of our analysis show some interesting trends and patterns in the TfL station entry and exit data from 2007 to 2021. Some of the key findings include:
