@@ -88,8 +88,8 @@ In the course of this project, several charts and indexes were produced to condu
 - Presented below is the Transport for London Entry & Exit figures over the years¹. 
 ![bokeh_plot](https://user-images.githubusercontent.com/42135459/221436610-26acb247-37ac-46fb-ba1b-49848bfcbf7c.png)
 
-- Presented below is the Annual Top 5 TfL stations by official Entry & Exit figures¹.
-![newplot (5)](https://user-images.githubusercontent.com/42135459/221932470-0bab7270-06a2-4379-be09-67c3776332a8.png)
+- Presented below is the Annual Top 10 TfL stations by official Entry & Exit figures¹.
+![newplot (6)](https://user-images.githubusercontent.com/42135459/222843170-0cc63450-6187-4eba-bac0-0cafde1fc839.png)
 
 ¹ - *Figures prior to 2017 **only** include the London Underground*
 
