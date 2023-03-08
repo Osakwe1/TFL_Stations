@@ -1,8 +1,8 @@
 NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London Overground,DLR,Zone,x,y
 750,Abbey Road,539077,183399,DLR,,,,,Yes,"2,3",0.005308217,51.5318653
 5131,Abbey Wood,547297,179002,TfL Rail,,,Yes,,,4,0.003723371,51.531952
-1404,Acton Central,520632,180296,London Overground,,,,Yes,,3,-0.261566477,51.50821824
-3000,Acton Main Line,520296,181196,TfL Rail,,,Yes,,,3,-0.263430195,51.50875735
+1404,Acton Central,520296,181196,London Overground,,,,Yes,,3,-0.263430195,51.50875735
+3000,Acton Main Line,520357,182233,TfL Rail,,,Yes,,,3,-0.2668,51.5171
 500,Acton Town,519478,179592,"District, Piccadilly",London Underground,Yes,,,,3,-0.278432824,51.50213702
 9441,Addington Village,537066,163744,Tramlink,Tramlink,,,,,6,-0.031284121,51.35570988
 9440,Addiscombe,534188,166297,Tramlink,Tramlink,,,,,5,-0.07162576,51.37934189
@@ -74,7 +74,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 842,Canary Wharf DLR,537450,180322,DLR,,,,,Yes,2,-0.019337121,51.50461022
 6560,Canary Wharf EL,537650,180451,TfL Rail,,,Yes,,,2,-0.0180268,51.5062331
 852,Canary Wharf LU,537677,180140,Jubilee,London Underground,Yes,,,,2,-0.016134819,51.50291749
-884,Canning Town,539428,181377,Jubilee,London Underground,Yes,,,,"2,3",0.009568884,51.51360991
+884,Canning Town,539428,181377,"Jubilee, DLR",London Underground,Yes,,,Yes,"2,3",0.009568884,51.51360991
 536,Cannon Street LU,532611,180900,"District, Circle",London Underground,Yes,,,,1,-0.088801035,51.51096254
 1441,Canonbury,532384,185035,London Overground,,,,Yes,,2,-0.090522836,51.54817851
 537,Canons Park,518187,191252,Jubilee,London Underground,Yes,,,,5,-0.293102561,51.60721294
@@ -385,7 +385,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 716,Stockwell,530460,176433,"Northern, Victoria",London Underground,Yes,,,,2,-0.121436641,51.47131386
 6934,Stoke Newington,533723,186850,London Overground,,,,Yes,,2,-0.070536111,51.56417453
 717,Stonebridge Park,519616,184218,"Bakerloo, London Overground",London Underground,Yes,,Yes,,3,-0.27487576,51.54368887
-719,Stratford,538530,184395,"Central, Jubilee, TfL Rail, London Overground, DLR",London Underground,Yes,,Yes,Yes,"2,3",-0.002182514,51.54094802
+719,Stratford,538530,184395,"Central, Jubilee, TfL Rail, London Overground, DLR",London Underground,Yes,Yes,Yes,Yes,"2,3",-0.002182514,51.54094802
 749,Stratford High Street,538752,184020,DLR,,,,,Yes,"2,3",0.000869889,51.53752645
 504,Stratford International DLR,538128,184761,DLR,,,,,Yes,"2,3",-0.007832275,51.54433906
 720,Sudbury Hill,515412,185542,Piccadilly,London Underground,Yes,,,,4,-0.335039246,51.55646384
@@ -436,7 +436,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 751,Wembley Central,518183,185085,"Bakerloo, London Overground",London Underground,Yes,,Yes,,4,-0.295237517,51.55177912
 752,Wembley Park,519316,186388,"Metropolitan, Jubilee",London Underground,Yes,,,,4,-0.278458638,51.56325938
 753,West Acton,519373,181296,Central,London Underground,Yes,,,,3,-0.279364414,51.51747345
-755,West Brompton,525381,178024,District,London Underground,Yes,,,,2,-0.193973832,51.48676791
+755,West Brompton,525381,178024,"District, London Overground",London Underground,Yes,,Yes,,2,-0.193973832,51.48676791
 8776,West Croydon (Tramlink),532210,166142,Tramlink,Tramlink,,,,,5,-0.100095218,51.37841469
 5411,West Croydon NR,532133,166072,London Overground,,,,Yes,,5,-0.101229704,51.37780543
 3174,West Drayton,506124,180122,TfL Rail,,,Yes,,,6,-0.472176084,51.51007045
