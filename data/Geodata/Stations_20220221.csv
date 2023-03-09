@@ -46,7 +46,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 9459,Blackhorse Lane,534377,166865,Tramlink,Tramlink,,,,,5,-0.06870387,51.3844061
 522,Blackhorse Road,535761,189370,"Victoria, London Overground",London Underground,Yes,,Yes,,3,-0.040174342,51.58633801
 882,Blackwall,538398,180664,DLR,,,,,Yes,2,-0.005550544,51.50745237
-524,Bond Street,528491,181118,"Central, Jubilee, TfL Rail",London Underground,Yes,,,,1,-0.148076884,51.51387033
+524,Bond Street,528491,181118,"Central, Jubilee, TfL Rail",London Underground,Yes,Yes,,,1,-0.148076884,51.51387033
 525,Borough,532440,179751,Northern,London Underground,Yes,,,,1,-0.091702818,51.50067969
 526,Boston Manor,516334,178693,Piccadilly,London Underground,Yes,,,,4,-0.32401176,51.494711
 527,Bounds Green,529984,191469,Piccadilly,London Underground,Yes,,,,"3,4",-0.122731021,51.60656487
@@ -107,7 +107,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 7406,Crouch Hill,530590,187513,London Overground,,,,Yes,,3,-0.115463356,51.57086778
 554,Croxley,507909,195403,Metropolitan,London Underground,Yes,,,,7,-0.44019171,51.64658792
 5356,Crystal Palace,534111,170555,London Overground,,,,Yes,,"3,4",-0.071128264,51.41763277
-887,Custom House,540731,180925,DLR,,,,,Yes,3,0.028149357,51.50922299
+887,Custom House,540731,180925,"DLR, TfL Rail",,,Yes,,Yes,3,0.028149357,51.50922299
 879,Cutty Sark,538206,177733,DLR,,,,,Yes,"2,3",-0.009463903,51.48115778
 893,Cyprus,543331,180860,DLR,,,,,Yes,3,0.065567428,51.50798477
 555,Dagenham East,550294,185030,District,London Underground,Yes,,,,5,0.167617456,51.54364955
@@ -120,7 +120,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 867,Devons Road,537639,182257,DLR,,,,,Yes,2,-0.015859691,51.52195436
 558,Dollis Hill,522190,185144,Jubilee,London Underground,Yes,,,,3,-0.237445148,51.55145847
 9468,Dundonald Road,524728,170256,Tramlink,Tramlink,,,,,3,-0.206116509,51.41708633
-560,Ealing Broadway,517989,180933,"District, Central, TfL Rail",London Underground,Yes,,,,3,-0.299418497,51.51449777
+560,Ealing Broadway,517989,180933,"District, Central, TfL Rail",London Underground,Yes,Yes,,,3,-0.299418497,51.51449777
 561,Ealing Common,518896,180346,"District, Piccadilly",London Underground,Yes,,,,3,-0.286555479,51.50903565
 562,Earl's Court,525534,178552,"District, Piccadilly",London Underground,Yes,,,,"1,2",-0.19157701,51.4914734
 563,East Acton,521721,181198,Central,London Underground,Yes,,,,2,-0.245569272,51.51609001
@@ -146,7 +146,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 1444,Euston NR,529608,182690,London Overground,,,,Yes,,1,-0.131403702,51.52774704
 575,Euston Square,529417,182393,"Metropolitan, Circle, Hammersmith & City",London Underground,Yes,,,,1,-0.134270582,51.52512499
 576,Fairlop,544936,190595,Central,London Underground,Yes,,,,4,0.092688126,51.59505439
-577,Farringdon,531560,181874,"Metropolitan, Circle, Hammersmith & City, TfL Rail",London Underground,Yes,,,,1,-0.103582415,51.51996102
+577,Farringdon,531560,181874,"Metropolitan, Circle, Hammersmith & City, TfL Rail",London Underground,Yes,Yes,,,1,-0.103582415,51.51996102
 9472,Fieldway,537684,163173,Tramlink,Tramlink,,,,,6,-0.022640017,51.3504305
 578,Finchley Central,525278,190668,Northern,London Underground,Yes,,,,4,-0.190951925,51.60043321
 579,Finchley Road,526220,184716,"Metropolitan, Jubilee",London Underground,Yes,,,,2,-0.179489511,51.54672589
@@ -197,8 +197,8 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 781,Heathrow Terminal 4 LU,508082,174430,Piccadilly,London Underground,Yes,,,,6,-0.444145672,51.45802947
 9846,Heathrow Terminal 5 EL,505109,175924,TfL Rail,,,Yes,,,6,-0.486475608,51.47201647
 783,Heathrow Terminal 5 LU,505109,175924,Piccadilly,London Underground,Yes,,,,6,-0.486475608,51.47201647
-780,Heathrow Terminals 123 LU,507586,175840,TfL Rail,,,Yes,,,6,-0.450857772,51.47079421
-7090,Heathrow Terminals 2 & 3 EL,507586,175840,Piccadilly,London Underground,Yes,,,,6,-0.450857772,51.47079421
+780,Heathrow Terminals 123 LU,507586,175840,Piccadilly,London Underground,Yes,,,,6,-0.450857772,51.47079421
+7090,Heathrow Terminals 2 & 3 EL,507586,175840,TfL Rail,,,Yes,,,6,-0.450857772,51.47079421
 601,Hendon Central,522986,188636,Northern,London Underground,Yes,,,,"3,4",-0.224748399,51.58267136
 855,Heron Quays,537421,180122,DLR,,,,,Yes,2,-0.019832666,51.50281981
 602,High Barnet,525030,196180,Northern,London Underground,Yes,,,,5,-0.192561468,51.65002914
@@ -400,7 +400,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 725,Theydon Bois,545542,199101,Central,London Underground,Yes,,,,6,0.104967288,51.67133739
 726,Tooting Bec,528047,172374,Northern,London Underground,Yes,,,,3,-0.15763366,51.4353811
 727,Tooting Broadway,527434,171443,Northern,London Underground,Yes,,,,3,-0.166791248,51.42715702
-728,Tottenham Court Road,529815,181382,"Central, Northern",London Underground,Yes,,,,1,-0.128897348,51.51594793
+728,Tottenham Court Road,529815,181382,"Central, Northern, TfL Rail",London Underground,Yes,Yes,,,1,-0.128897348,51.51594793
 729,Tottenham Hale LU,534484,189471,Victoria,London Underground,Yes,,,,3,-0.058547162,51.58754655
 730,Totteridge & Whetstone,526120,193989,Northern,London Underground,Yes,,,,4,-0.177599794,51.63009248
 864,Tower Gateway,533706,180834,DLR,,,,,Yes,1,-0.073061976,51.51011047
@@ -419,7 +419,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 777,Vauxhall LU,530337,177973,Victoria,London Underground,Yes,,,,"1,2",-0.122646146,51.48518446
 741,Victoria LU,528999,179130,"District, Circle, Victoria",London Underground,Yes,,,,1,-0.141485017,51.49588954
 9497,Waddon Marsh,531090,165897,Tramlink,Tramlink,,,,,5,-0.116278811,51.37647839
-742,Walthamstow Central,537176,188994,Victoria,London Underground,Yes,,,,3,-0.019895332,51.58261626
+742,Walthamstow Central,537176,188994,"Victoria, London Overground",London Underground,Yes,,Yes,,3,-0.019895332,51.58261626
 7407,Walthamstow Queen's Road,537018,188807,London Overground,,,,Yes,,3,-0.022254511,51.58097129
 9498,Wandle Park,531414,165512,Tramlink,Tramlink,,,,,5,-0.111770014,51.37293871
 5372,Wandsworth Road,529390,176196,London Overground,,,,Yes,,2,-0.136926893,51.46943062
@@ -455,7 +455,7 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 761,Westminster,530196,179668,"District, Circle, Jubilee",London Underground,Yes,,,,1,-0.124052209,51.50045311
 764,White City,523308,180748,Central,London Underground,Yes,,,,2,-0.222866489,51.51170695
 6956,White Hart Lane,533693,191333,London Overground,,,,Yes,,3,-0.069256013,51.60447174
-763,Whitechapel,534698,181851,"District, Hammersmith & City, London Overground, TfL Rail",London Underground,Yes,,Yes,,2,-0.05838503,51.51901529
+763,Whitechapel,534698,181851,"District, Hammersmith & City, London Overground, TfL Rail",London Underground,Yes,Yes,Yes,,2,-0.05838503,51.51901529
 765,Willesden Green,523329,184883,Jubilee,London Underground,Yes,,,,"2,3",-0.221119357,51.54886838
 766,Willesden Junction,521858,182960,"Bakerloo, London Overground",London Underground,Yes,,Yes,,"2,3",-0.242978972,51.5318981
 767,Wimbledon,524800,170684,District,London Underground,Yes,,,,3,-0.204921053,51.42091587
@@ -468,5 +468,5 @@ NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London
 7467,Woodgrange Park,541821,185350,London Overground,,,,Yes,,"3,4",0.045631091,51.54871611
 8779,Woodside,534701,167101,Tramlink,Tramlink,,,,,5,-0.063965962,51.38645328
 771,Woodside Park,525718,192588,Northern,London Underground,Yes,,,,4,-0.183907004,51.61758971
-573,Woolwich Arsenal,543731,178811,DLR,,,,,Yes,4,0.070492592,51.48946942
 6562,Woolwich,543931,178994,TfL Rail,,,Yes,,,4,0.071819,51.491578
+573,Woolwich Arsenal,543731,178811,DLR,,,,,Yes,4,0.070492592,51.48946942

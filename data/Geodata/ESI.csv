@@ -1,0 +1,36 @@
+NLC,NAME,EASTING,NORTHING,LINES,NETWORK,London Underground,Elizabeth Line,London Overground,DLR,Zone,x,y
+503,Aldgate East,533936,181375,"Hammersmith & City, District",London Underground,Yes,,,,1,-0.069540402,51.51491653
+562,Earl's Court,525534,178552,"District, Piccadilly",London Underground,Yes,,,,"1,2",-0.19157701,51.4914734
+574,Euston LU,529498,182668,"Northern, Victoria",London Underground,Yes,,,,1,-0.132992071,51.52757668
+555,Dagenham East,550294,185030,District,London Underground,Yes,,,,5,0.167617456,51.54364955
+556,Dagenham Heathway,549023,184710,District,London Underground,Yes,,,,5,0.149158377,51.54110645
+577,Farringdon,531560,181874,"Metropolitan, Circle, Hammersmith & City, TfL Rail",London Underground,Yes,Yes,,,1,-0.103582415,51.51996102
+610,Hornchurch,553944,186240,District,London Underground,Yes,,,,6,0.220754707,51.55353835
+625,King's Cross St. Pancras,530175,182875,"Metropolitan, Northern, Piccadilly, Circle, Victoria, Hammersmith & City",London Underground,Yes,,,,1,-0.123168404,51.52927728
+637,Maida Vale,525940,182762,Bakerloo,London Underground,Yes,,,,2,-0.184228557,51.52922219
+643,Mill Hill East,524046,191450,Northern,London Underground,Yes,,,,4,-0.208460194,51.60773582
+645,Moorgate,532668,181668,"Metropolitan, Northern, Circle, Hammersmith & City",London Underground,Yes,,,,1,-0.087700241,51.5178533
+665,Old Street,532764,182419,Northern,London Underground,Yes,,,,1,-0.086025441,51.52457628
+669,Oxford Circus,529047,181236,"Central, Bakerloo, Victoria",London Underground,Yes,,,,1,-0.140025246,51.51481046
+670,Paddington TfL,526459,181527,Hammersmith & City,London Underground,Yes,,,,1,-0.17719615,51.51800497
+676,Plaistow,540003,183297,"District, Hammersmith & City",London Underground,Yes,,,,3,0.018612643,51.53072137
+1441,Canonbury,532384,185035,London Overground,,,,Yes,,2,-0.090522836,51.54817851
+728,Tottenham Court Road,529815,181382,"Central, Northern, TfL Rail",London Underground,Yes,Yes,,,1,-0.128897348,51.51594793
+729,Tottenham Hale LU,534484,189471,Victoria,London Underground,Yes,,,,3,-0.058547162,51.58754655
+741,Victoria LU,528999,179130,"District, Circle, Victoria",London Underground,Yes,,,,1,-0.141485017,51.49588954
+757,West Ham,539131,182945,"District, Hammersmith & City, Jubilee, DLR",London Underground,Yes,,,Yes,"2,3",0.00590508,51.52776913
+764,White City,523308,180748,Central,London Underground,Yes,,,,2,-0.222866489,51.51170695
+884,Canning Town,539428,181377,"Jubilee, DLR",London Underground,Yes,,,Yes,"2,3",0.009568884,51.51360991
+1443,Dalston Junction,533578,184692,London Overground,,,,Yes,,2,-0.07344152,51.5448144
+1429,Dalston Kingsland,533528,185027,London Overground,,,,Yes,,2,-0.074035153,51.54783695
+1444,Euston NR,529608,182690,London Overground,,,,Yes,,1,-0.131403702,51.52774704
+603,Highbury & Islington,531583,184874,"Victoria, London Overground",London Underground,Yes,,Yes,,2,-0.102125867,51.54691824
+1023,Hoxton,533576,183148,London Overground,,,,Yes,,"1,2",-0.074056385,51.53093841
+634,Liverpool Street LU,533094,181567,"Metropolitan, Central, Circle, Hammersmith & City, London Overground",London Underground,Yes,,Yes,,1,-0.081601363,51.5168424
+6886,Romford,551387,188501,"TfL Rail, London Overground",,,Yes,Yes,,6,0.184863954,51.57454494
+6877,Gidea Park,552906,189285,TfL Rail,,,Yes,,,6,0.2071101,51.58117713
+6879,Harold Wood,554777,190568,TfL Rail,,,Yes,,,6,0.234666819,51.59219909
+6881,Ilford,543535,186486,TfL Rail,,,Yes,,,4,0.07080065,51.55848898
+1024,Shoreditch High Street,533555,182248,London Overground,,,,Yes,,1,-0.074700292,51.52285471
+719,Stratford,538530,184395,"Central, Jubilee, TfL Rail, London Overground, DLR",London Underground,Yes,Yes,Yes,Yes,"2,3",-0.002182514,51.54094802
+6965,Liverpool Street NR,533094,181567,TfL Rail,,,Yes,,,1,-0.080013644,51.51752768
