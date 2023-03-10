@@ -37,11 +37,11 @@ In working on this project, the following libraries were utilized.
 
   
 * Clone the project repository to your local machine.
-To set up your own local copy of this project, you will need to 'clone' this repo. 
+To set up your own local copy of this project, you will need to 'clone' this repo. To create a clone, run this in your terminal 
 ```
-gh  .  # for VS Code
+gh repo clone Osakwe1/TFL_Stations
 ```  
-  
+ 
 ### Prerequisites
 You will need to have Python 3 and the necessary libraries installed. You can install these libraries using pip by running the below :
 ```
@@ -79,9 +79,6 @@ These results can be further explored and used to inform transportation planning
 ## Conclusion
 In conclusion, this project has demonstrated the power of data analysis and visualization in gaining insights into complex systems such as the London transportation network. By cleaning and exploring the TfL station entry and exit data from 2007 to 2021, we have been able to identify key patterns and trends that can be used to inform transportation planning and policy decisions. The Jupyter notebooks and code in this repository provide a foundation for further analysis and exploration of this rich dataset. --->
 
-
-
-
 ### Acknowledgement
 All TfL transport data used in this project is provided by the [Transport for London open access](https://tfl.gov.uk/info-for/open-data-users/our-open-data). 
 Statistical GIS Boundary Files used in this project are provided by the [Office of National Statistics](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london). All files and data has been used in accordance with the  Open Government Licence and UK Government Licensing Framework.
@@ -102,6 +99,23 @@ In the course of this project, several charts and indexes were produced to condu
 
 - Finally, here is the breakdown of Entry & Exit data on the TfL network since 2017.
 ![image](https://user-images.githubusercontent.com/42135459/222136679-28554ace-7bc4-4dc0-bf8f-c568365250ca.png)
+
+## Conclusion
+In conclusion, this Transport for London Data Visualization project has provided us with valuable insights into the usage patterns of London's Underground and other supporting TfL services. By exploring and analyzing the station entry and exit data from 2007 to 2021, we were able to identify the busiest stations, peak travel times, and trends in passenger behavior over the years. The project has also produced several informative charts and maps, which have made it easier to visualize and understand the data.
+
+I hope that this project has been both informative and enjoyable for anyone who has had the chance to explore it. As the data is updated annually, there is always an opportunity to update the analysis and uncover new insights about how people travel in and around London.
+
+### Further Suggestions
+Due to limitations I had with available data and available time, I was not able to explore all facets of this project. These are a list of ideas I believe would be interesting and insightful and may be future extensions of this project. 
+If you're looking to take this project further, here are some suggestions:
+
+- Use machine learning algorithms to predict future usage patterns of the TfL network, which could help TfL optimize their services and improve the passenger experience.
+- Visualize the data in new and creative ways, such as through interactive 3D models of Entry/Exit data, to provide a more engaging view of the busiest areas of London.
+- Conduct a sentiment analysis of social media posts related to TfL and public transportation in London, to gain insights into what people are saying about the services and identify areas for improvement.
+- Explore interchange data in the ['NUMBAT'](https://github.com/Osakwe1/TFL_Stations/tree/master/data/NUMBAT) files to see which interchanges are the most frequented and explore potential future interchange possibities to make journeys faster and more accessible.
+- and maybe try to explain what is going on with Poplar and West India Quay's DLR stations? (Please, I would love to hear any explanations)
+
+I hope that you enjoyed this project and it inspires you to dig deeper into the world of data visualization and analysis! Thank you!
 
 
 <!--- TfL Station Entry and Exit Data Analysis
