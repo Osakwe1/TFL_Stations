@@ -35,6 +35,13 @@ In working on this project, the following libraries were utilized.
 - Shapely 🌍 - Geocoding library
 - hvplot 📈 - Data visualization library
 
+  
+* Clone the project repository to your local machine.
+To set up your own local copy of this project, you will need to 'clone' this repo. 
+```
+gh  .  # for VS Code
+```  
+  
 ### Prerequisites
 You will need to have Python 3 and the necessary libraries installed. You can install these libraries using pip by running the below :
 ```
