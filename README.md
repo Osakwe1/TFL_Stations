@@ -1,4 +1,4 @@
-# Transport for London Data Visualization 🚇
+#  Analysis of TfL Station Entry and Exit Data (2007-2021) 🚇
 This repository contains an analysis of the Transport for London (TfL) station entry and exit data from 2007 to 2021. The goal of this project is to explore and visualize the data to gain insights into how people use the London Underground and other supporting TfL services.
 
 The data used in this analysis was obtained from the TfL Open Data portal and data buckets, which provides access to a wide range of data about London's transportation system. The station entry and exit data is published on an annual basis and contains information about the number of entries and exits at each station, broken down by time of day and day of the week.
@@ -67,17 +67,6 @@ The data used in this project is provided by TfL and can be found here. You will
 
 ## Running the code
 The code for the data visualization is in the Jupyter Notebook file *'TFL_Stations.ipynb'*. You can run the code by opening the notebook and running the cells.
-
-<!--- ## Results
-The results of our analysis show some interesting trends and patterns in the TfL station entry and exit data from 2007 to 2021. Some of the key findings include:
-
-The total number of station entries and exits has steadily increased over time, with a peak in 2019 and a sharp decline in 2020 due to the COVID-19 pandemic.
-Some stations are much busier than others, with the busiest stations being in central London and the quieter stations being in the suburbs.
-The data shows clear patterns by time of day and day of the week, with peak usage during weekday rush hours and lower usage on weekends and holidays.
-These results can be further explored and used to inform transportation planning and policy decisions.
-
-## Conclusion
-In conclusion, this project has demonstrated the power of data analysis and visualization in gaining insights into complex systems such as the London transportation network. By cleaning and exploring the TfL station entry and exit data from 2007 to 2021, we have been able to identify key patterns and trends that can be used to inform transportation planning and policy decisions. The Jupyter notebooks and code in this repository provide a foundation for further analysis and exploration of this rich dataset. --->
 
 ### Acknowledgement
 All TfL transport data used in this project is provided by the [Transport for London open access](https://tfl.gov.uk/info-for/open-data-users/our-open-data). 
