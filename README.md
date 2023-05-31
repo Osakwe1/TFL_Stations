@@ -69,8 +69,9 @@ The data used in this project is provided by TfL and can be found here. You will
 The code for the data visualization is in the Jupyter Notebook file *'TFL_Stations.ipynb'*. You can run the code by opening the notebook and running the cells.
 
 ### Acknowledgement
-All TfL transport data used in this project is provided by the [Transport for London open access](https://tfl.gov.uk/info-for/open-data-users/our-open-data). 
-Statistical GIS Boundary Files used in this project are provided by the [Office of National Statistics](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london). All files and data has been used in accordance with the  Open Government Licence and UK Government Licensing Framework.
+- All TfL transport data used in this project is provided by the [Transport for London open access](https://tfl.gov.uk/info-for/open-data-users/our-open-data). 
+- Statistical GIS Boundary Files used in this project are provided by the [Office of National Statistics](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london). All files and data has been used in accordance with the  Open Government Licence and UK Government Licensing Framework.
+- Geojson files used in this project were inspired by [Oliver O'Brien's](https://github.com/oobrien) spectacular work which is available [here](https://github.com/oobrien/vis)
 
 ## Results & Charts
 In the course of this project, several charts and indexes were produced to conduct analyses. Here I will provide a few samples of what you can find in this project:
